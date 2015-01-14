@@ -17,6 +17,13 @@
 		<div class="col main-content-span">
 			<?php //echo do_shortcode('[smartblock id=424]'); ?>
 <p style="text-align:center;"><!--<img src="<?php echo do_shortcode('[blogurl]'); ?>wp-content/uploads/images/dd-lines2.jpg" id="dd-lines-2" />--></p><br/>
+			
+			<p style="text-align:center;"><img src="<?php echo do_shortcode('[blogurl]'); ?>wp-content/uploads/images/dd-lines2.jpg" id="dd-lines-2" /></p>
+<div style="background:#4d628a;font-color:#000000;padding-bottom: 30px;padding-top: 7px;">
+			<?php echo do_shortcode('[smartblock id=50]'); ?>
+</div>
+
+
 			<div class="col home-page-one-third-span">
 				<div id="inside-home-third-col">
 					<div id="fact1"><h2>Abraham Lincoln In Depth</h2></div>
@@ -44,6 +51,8 @@
 <div style="background:#4d628a;font-color:#000000;padding-bottom: 30px;padding-top: 7px;">
 			<?php echo do_shortcode('[smartblock id=50]'); ?>
 </div>
+
+
 <p style="text-align:center;"><img src="<?php echo do_shortcode('[blogurl]'); ?>wp-content/uploads/images/dd-lines2.jpg" id="dd-lines-2" /></p>
 
 			<div class="col home-page-one-third-span">
